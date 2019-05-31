@@ -1,1 +1,1 @@
-# ini project pertama
+# python
